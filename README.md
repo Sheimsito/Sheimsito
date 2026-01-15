@@ -53,7 +53,7 @@
   </a>
 <p>
   
-### 🔗 &nbsp;Contact Me
+## 🛠 &nbsp;Contact Me
 
 <div align="center">
   <a href="mailto:kealgri@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
