@@ -35,7 +35,7 @@
 #### 🖼️ Frameworks
 <p align="left">
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,express,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=angular,spring,express,django,fastapi" />
   </a>
 <p>
   
