@@ -21,7 +21,7 @@
 #### 🔧 Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,kotlin,python," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,java,kotlin,python,cs" />
   </a>
 </p>
 
